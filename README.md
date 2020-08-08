@@ -5,4 +5,4 @@
 
 •	PyTorch, U-Net Architecture, Residual Connections, Dice Scores
 
-Colab Notebook link: https://colab.research.google.com/drive/18isc1ppbYlihTZCT1AFoS5ChhlAart3j?authuser=7
+Colab Notebook link: https://colab.research.google.com/drive/18isc1ppbYlihTZCT1AFoS5ChhlAart3j?usp=sharing
